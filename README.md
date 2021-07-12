@@ -1,3 +1,7 @@
+simple-dvc-demo-main:
+Its end to end MLOPS project by Sunny and krish. It has used Git,DVC, Etc.
+It has proper folder structure with dvc config and params to control the project
+
 create env 
 
 ```bash
